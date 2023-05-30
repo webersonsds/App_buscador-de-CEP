@@ -4,4 +4,4 @@ App busccor de cep, desenvolvido em rect-native e um aplictivo que apenas em dig
 
 https://user-images.githubusercontent.com/102109458/233531114-beb32b1b-1437-4ba8-b075-bb23cf46a111.mp4
 
-App React-Native buscador de cep
+App buscador de cep que busca um cep
